@@ -31,7 +31,7 @@ The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) contains:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mnist-classifier.git
+git clone https://github.com/8Whoknow3/MNIST.git
 cd mnist-classifier
 ```
 
